@@ -1,6 +1,6 @@
 <h2>PowerBI Customer, Sales and Product Analysis: ~ Power BI dashboarding ~ DAX</h2>
 
-This project demonstrates the power of ***Power BI Dashboarding*** functions to engineer and analyze large datasets at speed and with accuracy. Excel Functions were usied to clean and transform the data. DAX code was also used to build measures and calculated columns.
+This project demonstrates the power of **Power BI Dashboarding** functions to engineer and analyze large datasets at speed and with accuracy. Excel Functions were usied to clean and transform the data. DAX code was also used to build measures and calculated columns.
 
 <h3>Prerequisites</h3>
 To run the this project, you will need to have the following software installed:
@@ -23,9 +23,9 @@ Each element should have a clear function and all unnessasary data is to be remo
 <h3>Result</h3>
 Developed and deployed three meanful and insightful dashboards with specific purposes.
 
- - __Customer Dashboard__ review who are customers allowing us to slice the data across Location, Catogery and revenue.
+ - **Customer Dashboard** review who are customers allowing us to slice the data across Location, Catogery and revenue.
 
- - ***Sales Dashboard*** identifie high and low profit and revenue  products and locations
+ - **Sales Dashboard** identifie high and low profit and revenue  products and locations
  
- - ***Product Dashboard*** highlights quanity and value of sold product drilling down to product by customer in a intuituve manner.
+ - **Product Dashboard** highlights quanity and value of sold product drilling down to product by customer in a intuitive manner.
 
